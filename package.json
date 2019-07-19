@@ -1,0 +1,29 @@
+{
+  "name": "edx-membership",
+  "version": "1.0.0",
+  "description": "The goal of this project is to make learner can subscribe VIP membership of any online courses learning platform set up by using edx-platfrom, and learn freely instead of buying the courses one by one.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cz-conventional-changelog": "^2.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e-ducation/edx-membership.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/e-ducation/edx-membership/issues"
+  },
+  "homepage": "https://github.com/e-ducation/edx-membership#readme",
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
